@@ -1,4 +1,5 @@
 pandas
+scipy
 numpy
 scikit-learn
 joblib
@@ -6,6 +7,7 @@ flask
 nltk
 seaborn
 wordcloud  
-gensim
+bert-extractive-summarizer
 transformers
 Jinja2
+torch
